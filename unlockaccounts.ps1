@@ -1,0 +1,1 @@
+﻿Invoke-Command -ComputerName 172.20.1.25 -ScriptBlock { c:\scripts\"unlocking.ps1" } -Credential westtexasretina\administrator

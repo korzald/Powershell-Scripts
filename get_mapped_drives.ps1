@@ -1,0 +1,1 @@
+﻿Get-WmiObject -class Win32_MappedLogicalDisk | select name, providername, mappedto
